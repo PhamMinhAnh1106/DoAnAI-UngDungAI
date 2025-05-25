@@ -14,7 +14,7 @@
 
 - **Frontend**: HTML/CSS, JavaScript, Bootstrap.
 - **Backend**: JavaScript, PHP.
-- **API tóm tắt**: [DeepSeek R1](https://deepseek.com/)
+- **API tóm tắt**: [DeepSeek R1](https://openrouter.ai/)
 - **Cơ sở dữ liệu**: MySQL.
 - **Authentication**: BCrypt mật khẩu người dùng và so sánh mã băm để đăng nhập.
 
