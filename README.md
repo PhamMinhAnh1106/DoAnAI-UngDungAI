@@ -1,7 +1,7 @@
 # 📚  Website đọc tiểu thuyết cho người bận rộn
 - Một website giúp người dùng **đọc và tóm tắt tiểu thuyết từ file PDF**, đồng thời hỗ trợ **đăng ký / đăng nhập tài khoản** để quản lý lịch sử sử dụng.
 - Website tích hợp **API DeepSeek R1** (Call API) để tạo nội dung tóm tắt nhanh chóng và chính xác.
-- 
+  
 ## 🚀 Chức năng chính
 
 - 🔐 Đăng ký / đăng nhập tài khoản người dùng
@@ -9,8 +9,6 @@
 - 🧠 Gọi **API DeepSeek R1** để tóm tắt nội dung
 - 📄 Hiển thị tóm tắt nội dung một cách dễ hiểu
 - 📚 Quản lý lịch sử, đánh chỉ mục các lần tóm tắt theo tài khoản.
-
----
 
 ## 🛠️ Công nghệ sử dụng
 
